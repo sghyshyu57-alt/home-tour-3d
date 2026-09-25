@@ -1,2 +1,7 @@
-# home-tour-3d
-Interactive 3D house tour based on reference photos
+# 房屋漫游 3D 模型
+
+直接打开：**https://sghyshyu57-alt.github.io/home-tour-3d/**
+
+手机或电脑浏览器均可查看。俯视模式支持拖动旋转、缩放；漫游模式可走入室内，手机用屏幕方向键移动并拖动画面转向。
+
+模型根据视频和照片估算，仅用于空间与家具位置的多角度查看，不作为施工尺寸依据。仓库的 `docs/` 是 GitHub Pages 发布目录。
